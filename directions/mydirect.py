@@ -1,7 +1,7 @@
 import simplejson, urllib
 
-orig_coord = ('46256', 'Greenwood')
-dest_coord = ('indianpolis', '46241')
+orig_coord = (orig)
+dest_coord = (dest)
 
 
 for orig in orig_coord:
